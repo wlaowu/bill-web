@@ -69,3 +69,6 @@ test2024/Test@2024@Bot
     </script>
   </body>
 </html>
+
+
+http://38.47.227.188/bill/#/billCharts/?group=LTEwMDI0OTkxMjQ0Njc=&day=0
